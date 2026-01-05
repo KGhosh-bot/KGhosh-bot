@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 # 💫 Hi there 👋
 Recent AI Graduate | Researcher | ML Engineer
 
-<br><br>I don’t just use AI; I want to understand—and improve—how it thinks. My focus is on developing models that are both interpretable and high-performing. Whether it's optimizing a training pipeline for a Data Science role or exploring non-IID data in Federated Learning, I'm all in.
+I don’t just use AI; I want to understand—and improve—how it thinks. My focus is on developing models that are both interpretable and high-performing. Whether it's optimizing a training pipeline for a Data Science role or exploring non-IID data in Federated Learning, I'm all in.
 
-- 🔭<br><br>Current Focus: building complete software systems that don't just "guess," but follow rules.
-- 🎯<br><br>Goal: Building AI that is transparent, efficient, and useful.
+- 🔭Current Focus: building complete software systems that don't just "guess," but follow rules.
+- 🎯Goal: Building AI that is transparent, efficient, and useful.
 
 
 ## 🌐 Socials:
