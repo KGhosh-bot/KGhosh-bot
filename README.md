@@ -19,7 +19,7 @@ Recent AI Graduate | Researcher | ML Engineer
 
 I don’t just use AI; I want to understand—and improve—how it thinks. My focus is on developing models that are both interpretable and high-performing. Whether it's optimizing a training pipeline for a Data Science role or exploring non-IID data in Federated Learning, I'm all in.
 
-- 🔭Current Focus: building complete software systems that don't just "guess," but follow rules.
+- 🔭Current Focus: Building complete software systems that don't just "guess," but follow rules.
 - 🎯Goal: Building AI that is transparent, efficient, and useful.
 
 
