@@ -36,8 +36,6 @@ I don’t just use AI; I want to understand—and improve—how it thinks. My fo
 ---
 [![](https://visitcount.itsvg.in/api?id=KGhosh-bot&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 # 💫 About Me:
 Recent AI Graduate | Researcher | ML Engineer<br><br>I don’t just use AI; I want to understand—and improve—how it thinks. My focus is on developing models that are both interpretable and high-performing. Whether it's optimizing a training pipeline for a Data Science role or exploring non-IID data in Federated Learning, I'm all in.<br><br>🔭Current Focus: Building complete software systems that don't just "guess," but follow rules.<br>🎯Goal: Building AI that is transparent, efficient, and useful.
